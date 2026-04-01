@@ -1,12 +1,12 @@
 # Jonathan Gael Alanis Lopez
 
-> **Desarrollador de Software Jr | Consultor Odoo Jr** > 📍 Nezahualcóyotl, Estado de México
+> **Desarrollador de Software Jr | Consultor Odoo Jr** >
 
 Soy un desarrollador con experiencia en la creación de soluciones a medida, implementación de módulos desde cero y adaptación de flujos de negocio. Me especializo en el ecosistema **Odoo (v18+)** y cuento con un stack versátil que abarca tanto el backend como el frontend. Me apasiona resolver problemas complejos, automatizar procesos empresariales y crear software escalable.
 
 ---
 
-### 💻 Mi Stack Tecnológico
+### 💻 Mi Stack
 
 **Backend & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,5 +51,6 @@ Soy un desarrollador con experiencia en la creación de soluciones a medida, imp
 
 ### 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-alanis-6754323b2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanisjonnhy@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525534132628?text=Hola%20Jonathan,%20vi%20tu%20portafolio%20en%20GitHub)
